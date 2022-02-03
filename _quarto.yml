@@ -10,7 +10,7 @@ book:
   cover-image: images/cover.png
   site-url: https://tutorials.thecoatlessprofessor.com/prairielearn-instructor/
   repo-url: https://github.com/coatless-tutorials/prairielearn-instructor
-  repo-branch: master
+  repo-branch: main
   repo-actions: [edit]
   sharing: [twitter, facebook, linkedin]
   chapters:
