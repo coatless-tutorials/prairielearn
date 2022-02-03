@@ -1,0 +1,22 @@
+project:
+  type: book
+  output-dir: _book
+  
+book:
+  title: "PrairieLearn Question Writing Guide"
+  author: "JJB"
+  description: | 
+    TBA
+  cover-image: images/cover.png
+  site-url: https://tutorials.thecoatlessprofessor.com/prairielearn-instructor/
+  repo-url: https://github.com/coatless-tutorials/prairielearn-instructor
+  repo-branch: master
+  repo-actions: [edit]
+  sharing: [twitter, facebook, linkedin]
+  chapters:
+    - index.qmd
+
+format:
+  html: 
+    theme: cosmo
+    code-link: true
