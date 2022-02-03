@@ -3,11 +3,11 @@ project:
   output-dir: _book
   
 book:
-  title: "PrairieLearn Question Writing Guide"
+  title: "PrairieLearn Question Authoring Guide"
   author: "JJB"
   description: | 
     TBA
-  cover-image: images/cover.png
+  cover-image: images/prairielearn_logo.png
   site-url: https://tutorials.thecoatlessprofessor.com/prairielearn-instructor/
   repo-url: https://github.com/coatless-tutorials/prairielearn-instructor
   repo-branch: main
